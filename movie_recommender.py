@@ -13,11 +13,6 @@ a recommendation system that takes in a movie that a user likes
 and then analyzes it to get the movies content (e.g. genre, cast, director, keywords, etc.), 
 it then ranks the recommended movies based on how similar the recommended movies 
 are to the liked movie using something called similarity scores
-'''
-
-#Description: Build a movie recommendation engine (more specifically a content based recommendation engine)
-
-#Resources: https://medium.com/code-heroku/building-a-movie-recommendation-engine-in-python-using-scikit-learn-c7489d7cb145
 
 #Import Libraries
 import pandas as pd
